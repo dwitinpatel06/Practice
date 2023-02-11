@@ -16,7 +16,8 @@ public class Practice {
      */
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-   
+        System.out.print("Enter a Number: ");
+        int n=in.nextInt();
    
         String word = in.next();
          
