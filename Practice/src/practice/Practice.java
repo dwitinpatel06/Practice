@@ -18,6 +18,8 @@ public class Practice {
         Scanner in = new Scanner(System.in);
         System.out.print("Enter a Number: ");
         int n=in.nextInt();
+        System.out.print("Enter a Number1: ");
+        int n1=in.nextInt();
    
         String word = in.next();
          
